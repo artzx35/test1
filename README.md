@@ -1,3 +1,3 @@
-# HEllooooo
+# HEllo, world!
 
-21.12.2222
+I study in Netology
